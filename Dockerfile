@@ -1,4 +1,4 @@
-FROM public.ecr.aws/docker/library/golang:1.21.3-bookworm
+FROM public.ecr.aws/docker/library/alpine:3.19.0
 
 RUN mkdir /app
 
