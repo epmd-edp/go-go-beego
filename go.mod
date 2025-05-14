@@ -1,6 +1,6 @@
 module go-go-beego
 
-go 1.20
+go 1.24
 
 require github.com/astaxie/beego v1.12.2
 
